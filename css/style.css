@@ -201,3 +201,10 @@ footer .wrapper{
 .pinterest a:hover{
     background-image: url("../images/pinterest-survol.jpg");
 }
+
+
+/*Aide stylistique*/
+
+.conteneur-transport-invisible{
+    display: none;
+}
